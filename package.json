@@ -9,6 +9,7 @@
         "lint:js:fix": "eslint --fix --ext .js,.vue .",
         "lint:css": "stylelint './**/*.scss' './**/*.vue'",
         "lint:css:fix": "stylelint './**/*.scss' './**/*.vue' --fix",
+        "dev": "API_URL=http://`docker port hsl-congestion_dev_1 80` nuxt",
         "build": "API_URL=https://api-dot-hsl-tram-7-congestion-tracking.appspot.com nuxt build",
         "start": "nuxt start"
     },
