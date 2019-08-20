@@ -1,7 +1,7 @@
 {
-    "name": "@aapokiiso/onkoseiskataynna.fi",
+    "name": "@aapokiiso/onkosporataynna.fi",
     "version": "1.0.0",
-    "description": "Frontend for congestion tracking in Helsinki",
+    "description": "Frontend for tram congestion tracking in Helsinki",
     "license": "UNLICENSED",
     "scripts": {
         "lint": "npm run lint:css && npm run lint:js",
@@ -9,8 +9,8 @@
         "lint:js:fix": "eslint --fix --ext .js,.vue .",
         "lint:css": "stylelint './**/*.scss' './**/*.vue'",
         "lint:css:fix": "stylelint './**/*.scss' './**/*.vue' --fix",
-        "dev": "API_URL=http://`docker port hsl-congestion_dev_1 80` nuxt",
-        "build": "API_URL=https://api-dot-hsl-tram-7-congestion-tracking.appspot.com nuxt build",
+        "dev": "nuxt",
+        "build": "API_URL=https://hsl-tram-congestion.appspot.com/ nuxt build",
         "start": "nuxt start"
     },
     "husky": {

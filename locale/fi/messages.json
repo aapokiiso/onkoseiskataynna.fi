@@ -1,8 +1,8 @@
 {
-    "appName": "Onko seiska täynnä?",
+    "appName": "Onko spora täynnä?",
     "appDescription": {
-        "short": "Appi arvioi, kuinka täynnä seiskan ratikat ovat pysähtymisaikojen perusteella.",
-        "long": "Oletko koskaan hypännyt seiskan ratikan kyytiin vain huomataksesi, että se on täynnä ihmisiä matkalla Länsisatamaan? Pfft, mistä lähtien vaunussa ei ole saanut istua ilman kyynärpääkontaktia? Onneksi HSL tarjoaa mahtavan rajapinnan kulkuneuvojen reaaliaikaiseen seurantaan. Vaunujen pysähtymisaikojen perusteella voimme arvioida kuinka täynnä ne ovat."
+        "short": "Appi arvioi, kuinka täynnä ratikat ovat pysähtymisaikojen perusteella.",
+        "long": "Oletko koskaan hypännyt ratikan kyytiin vain huomataksesi, että se on täynnä ihmisiä matkalla Länsisatamaan? Onneksi HSL tarjoaa mahtavan rajapinnan kulkuneuvojen reaaliaikaiseen seurantaan. Vaunujen pysähtymisaikojen perusteella voimme arvioida kuinka täynnä ne ovat."
     },
     "localeName": {
         "fi": "Suomeksi",
