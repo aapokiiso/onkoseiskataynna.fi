@@ -19,7 +19,7 @@
         }
     },
     "dependencies": {
-        "axios": "^0.18.0",
+        "axios": "^0.21.1",
         "moment": "^2.24.0",
         "nuxt": "^2.4.5",
         "nuxt-svg-loader": "^1.0.1",
